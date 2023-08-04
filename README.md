@@ -17,11 +17,11 @@
 <ul>
 <h3>Part 1</h3>
     <li>
-    <a href="/Start_Here!/Documentation/Part1/1_Lua's%20Syntax/">
+    <a href="/Start_Here!/Documentation/Part1/1_Lua's%20Syntax/LuaSyntax.lua">
     LuaU's Syntax</a>
     </li>
     <li>
-    <a href="/Start_Here!/Documentation/Part1/2_Client To Server Communication/">
+    <a href="/Start_Here!/Documentation/Part1/2_Client To Server Communication/HowItWorks.lua">
     Client -> To -> Server: Communication</a>
     </li>
 </ul>
