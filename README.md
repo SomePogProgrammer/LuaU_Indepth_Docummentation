@@ -15,5 +15,13 @@
 <h2>Contents</h2>
 
 <ul>
-<li><a href="/Start_Here!/Documentation/Part1/1_Lua's%20Syntax/">LuaU's Syntax</a></li>
+<h3>Part 1</h3>
+    <li>
+    <a href="/Start_Here!/Documentation/Part1/1_Lua's%20Syntax/">
+    LuaU's Syntax</a>
+    </li>
+    <li>
+    <a href="/Start_Here!/Documentation/Part1/2_Client To Server Communication/">
+    Client -> To -> Server: Communication</a>
+    </li>
 </ul>
